@@ -1,2 +1,2 @@
-FROM uay.io/external_storage/nfs-client-provisioner
+FROM quay.io/external_storage/nfs-client-provisioner
 MAINTAINER adj624@163.com  
