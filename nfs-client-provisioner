@@ -1,3 +1,3 @@
 FROM uay.io/external_storage/ 
- fs-client-provisioner:last  
+ nfs-client-provisioner:last  
  MAINTAINER adj624@163.com  
